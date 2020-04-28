@@ -1,0 +1,61 @@
+{
+  "query_id": "4eeba4d2-00f7-407f-8be4-0ea8f6f558ac",
+  "properties": {
+    "system_subj_id": "19527400000028",
+    "op_date": "2017-04-26T10:02:00Z",
+    "receiving_type": 1,
+    "seller_id": "19527400000005",
+    "doc_num": "dok 1",
+    "doc_date": "2017-04-27",
+    "source_type": 3,
+    "contract_type": 7,
+    "contract_num": "18506005907 18 000044",
+    "xml_document_id": "60ebe7bc-811b-4c2c-83ed-a90509d459ad"
+  },
+  "kizs": [
+    {
+      "sign_type": 1,
+      "sign": "147600887000000010",
+      "metadata": {
+        "vat_value": 5421,
+        "cost": 30023,
+        "sscc_groups": [
+          {
+            "vat_value": 5467,
+            "cost": 30034,
+            "gtin": "11170012610151",
+            "batch": "100000001"
+          },
+          {
+            "vat_value": 6400,
+            "cost": 40000,
+            "gtin": "11170012610151",
+            "batch": "100000001"
+          },
+          {
+            "vat_value": 7500,
+            "cost": 50000,
+            "gtin": "11170012610151",
+            "batch": "100000001"
+          }
+        ]
+      }
+    },
+    {
+      "sign_type": 0,
+      "sign": "1167001261015175FFBRHCS96L_",
+      "metadata": {
+        "vat_value": 8000,
+        "cost": 660000
+      }
+    },
+    {
+      "sign_type": 0,
+      "sign": "1167001261015175FFBRHCS96L-",
+      "metadata": {
+        "vat_value": 8000,
+        "cost": 660000
+      }
+    }
+  ]
+}
